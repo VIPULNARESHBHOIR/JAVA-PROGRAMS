@@ -1,0 +1,8 @@
+--------------------------------------------------------------------------------
+id       Name    Disease         Gender         Admit Status    Age
+--------------------------------------------------------------------------------
+12      Pankaj  Cancer          Male            NORMAL         30
+13      Sumit   Cold            Male            SERIOUS        23
+14      Alok    Maleriya        Male            NORMAL         45
+15      Ravi    Diabetes        Male            SERIOUS        25
+13	vijay 	vomiting     	male      	Normal	       45

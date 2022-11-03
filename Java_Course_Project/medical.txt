@@ -1,0 +1,9 @@
+----------------------------------------------------------
+Name     Company        Expiry Date      Cost
+----------------------------------------------------------
+Corex   Cino pvt        9-5-16          55
+Nytra   Ace pvt         4-4-15          500
+Brufa   Reckitt         12-7-17         50
+Pride   DDF pvt         12-4-12         1100
+Crosin500  	mp.pvt.    	20-11-2023     	98
+crosin  	ace pvt    	23-9-24     	125

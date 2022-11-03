@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------------------
+id       Name              Specilist          Timing         Qualification      Room No.
+-------------------------------------------------------------------------------------------
+D1        Dr.vishwas          Eye             2-4pm            MBBS               111
+D2        Dr.vikram        eye                1-3pm               MBED             112
+D3        Dr.Rekha          Surgeon             8-12am            BDM               117
+D4        Dr.Pramod          Artho         10-4pm            MD,MS               123
+
+D6        Dr. Vinod          bone             4-8pm            MBBS               152
+D7        abhi          eye             9-12pm            MBED               144
